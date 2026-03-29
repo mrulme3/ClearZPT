@@ -1,5 +1,5 @@
 @echo off
-set "LOCAL_VERSION=0.0.2"
+set "LOCAL_VERSION=0.0.3"
 
 :: External commands
 if "%~1"=="status_zapret" (
@@ -906,7 +906,7 @@ chcp 437 > nul
 cls
 
 set "hostsFile=%SystemRoot%\System32\drivers\etc\hosts"
-set "hostsUrl=https://raw.githubusercontent.com/mrulme3/ClearZPT/refs/heads/main/hosts?token=GHSAT0AAAAAADYHP5H4Q2AG5NLSFDZOHY2S2N33QLA"
+set "hostsUrl=https://raw.githubusercontent.com/mrulme3/ClearZPT/refs/heads/main/hosts"
 set "tempFile=%TEMP%\zapret_hosts.txt"
 set "needsUpdate=0"
 

@@ -15,3 +15,11 @@ youtu.be
 yt-video-upload.l.google.com
 ytimg.com
 ytimg.l.google.com
+play.google.com
+yt.be
+ggpht.com
+gvt1.com
+manifest.googlevideo.com
+googleadservices.com
+youtube.googleapis.com
+googleusercontent.com

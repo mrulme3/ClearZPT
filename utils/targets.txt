@@ -11,7 +11,7 @@
 DiscordMain           = "https://discord.com"
 DiscordGateway        = "https://gateway.discord.gg"
 DiscordCDN            = "https://cdn.discordapp.com"
-DiscordUpdates        = "https://updates.discord.com"
+DiscordMedia          = "https://media.discordapp.net"
 
 ### YouTube
 YouTubeWeb            = "https://www.youtube.com"
@@ -27,12 +27,22 @@ GoogleGstatic         = "https://www.gstatic.com"
 CloudflareWeb         = "https://www.cloudflare.com"
 CloudflareCDN         = "https://cdnjs.cloudflare.com"
 
-### Roblox
+### New
 RobloxMain            = "https://roblox.com"
-RobloxAssetDelivery   = "https://assetdelivery.roblox.com"
-RobloxApis            = "https://apis.roblox.com"
-RobloxAuth            = "https://auth.roblox.com"
-RobloxUsers           = "https://users.roblox.com"
+Modrinth              = "https://modrinth.com"
+Amnezia               = "https://amnezia.org"
+Amazon                = "https://aws.amazon.com"
+Rutracker             = "https://rutracker.org"
+X                     = "https://x.com"
+CDN77                 = "https://cdn77.com"
+Hcaptcha              = "https://hcaptcha.com"
+Minecraft             = "https://minecraft.net"
+Mojang                = "https://mojang.com"
+CDNBunny              = "https://cdnbunny.org"
+Fastly                = "https://fastly.net"
+BetterTTV             = "https://cdn.betterttv.net"
+FrankerFacez          = "https://cdn.frankerfacez.com"
+Steam                 = "https://steampowered.com"
 
 ### Public DNS (PING-only)
 CloudflareDNS1111     = "PING:1.1.1.1"

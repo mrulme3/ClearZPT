@@ -438,3 +438,15 @@ lightswitch-public-service-prod06.ol.epicgames.com
 orderprocessor-public-service-ecomprod01.ol.epicgames.com
 launcherwaitingroom-public-service-prod06.ol.epicgames.com
 datastorage-public-service-liveegs.live.use1a.on.epicgames.com
+adobe.com
+adobe.de
+adobe.io
+adobe.ipp
+adobe.net
+adobe.newoa
+adobe.ntp
+adobedtm.com
+adobeereg.com
+adobegenuine.com
+adobejanus.com
+adobelogin.com
