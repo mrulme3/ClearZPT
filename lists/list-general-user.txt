@@ -863,7 +863,6 @@ whatsapp.org
 whatsapp.tv
 whatsappbrand.com
 xhamsterlive.com
-xboxlive.com
 znanija.com
 zohomail.com
 trae.ai
@@ -1816,7 +1815,6 @@ www.cgtrader.com
 www.octanorm.com
 www.qwant.com
 wxug.com
-xbox.com
 xerox.com
 xiaomi.eu
 yeggi.com
@@ -1886,3 +1884,5 @@ discordinvites.net
 findadiscord.com
 comachat-followers-instagram.com
 pinterest.com
+essential.gg
+imagedelivery.net
