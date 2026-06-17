@@ -429,3 +429,6 @@ gamecms.xboxlive.com
 cloudappsecurity.com
 auth.xboxlive.com
 start.ui.xboxlive.com
+zerotier.com
+root-alice.zerotier.com
+root-bob.zerotier.com
